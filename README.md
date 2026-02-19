@@ -15,7 +15,7 @@ gcc -o othello main.c partie.c partie.h plateau.c plateau.h
 ## Fonctionnalités
 - Plateau 8x8 affiché dans le terminal
 - Deux joueurs en local
-- (etc. selon ce que ton jeu fait vraiment)
+- Voir règles de jeu sur mon portfolio
 
 ## Aperçu
 ![Aperçu du jeu](screenshots/Screenshots.png)
