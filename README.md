@@ -18,4 +18,4 @@ gcc -o othello main.c othello.c -lm
 - (etc. selon ce que ton jeu fait vraiment)
 
 ## Aperçu
-![Aperçu du jeu](screenshots/screenshots.png)
+![Aperçu du jeu](screenshots/Screenshots.png)
